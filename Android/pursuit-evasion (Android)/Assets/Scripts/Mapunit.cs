@@ -272,6 +272,12 @@ public class Mapunit : MonoBehaviour
         
         robberRange = robberRange.Except(copRange, new EntityComparer()).ToList();
         robberRange = robberRange.Except(anotherCopRange, new EntityComparer()).ToList();
+        if (robberRange.Count == 0)
+        {
+            List<Mapunit> path = new List<Mapunit>();
+            path.Add(this);
+            return path;
+        }
         for (int i = 0; i < copRange.Count; i++)
         {
             this.list.Add(new List<List<Mapunit>>());

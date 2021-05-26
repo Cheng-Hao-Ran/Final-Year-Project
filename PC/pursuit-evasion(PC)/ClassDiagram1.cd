@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Active">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Active.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arrow">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cop">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABACAAjAgAACAAAgCAABAAQAgAACAAAAAAQABCAA=</HashCode>
+      <FileName>Assets\Scripts\Cop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cop1" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Cop1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAIAAQAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAgAAAAAAACIAAAAAAAAQAAAAAACAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EntityComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAEAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureControl" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQQAQAAACABgIICAAAAIAAgAEgAAAABQAAEIAACAAA=</HashCode>
+      <FileName>Assets\Scripts\GestureControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mapunit" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAIkQAAAAEQEFBJgAUAAAAgxARIAAEIABAA0CBAAA=</HashCode>
+      <FileName>Assets\Scripts\Mapunit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Move_control" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAIqAgKgIAAAgCBAIAAAAiAQEMAAAACAAAAQU=</HashCode>
+      <FileName>Assets\Scripts\Move_control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomMap" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAAAgAAAgAAAAAAABAgAAAAAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\RandomMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robber" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAKAgAAAAAAACIAAAAAAAAQAAAAAACAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Robber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShowStep" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ShowStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Steps" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQgCACAACAEAAAAAAgAAAAAAAAgAAAiIAQABAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Steps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Substitute" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Substitute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewController" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ViewController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Waypoints" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Waypoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
